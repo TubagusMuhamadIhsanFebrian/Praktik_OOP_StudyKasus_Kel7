@@ -5,7 +5,7 @@
 **Sistem Manajemen Stok Restoran**  
 Mengelola berbagai jenis menu (Makanan, Minuman, dan Dessert) beserta stoknya secara dinamis dengan memanfaatkan konsep OOP.
 
---
+---
 
 ## 🎯 Tujuan Pembelajaran
 - Memahami konsep **Abstract Class** dan **Method Abstract**
